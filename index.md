@@ -12,4 +12,5 @@ We specialise in pick-up and collection of 15kg / 30L Bags of high quality white
 ### How to Contact Us
 
 [Contact Page](contact.html)
+includeHTML( "form/index.html" )
 
