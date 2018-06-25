@@ -11,5 +11,5 @@ We specialise in pick-up and collection of 15kg / 30L Bags of high quality white
 
 ### How to Contact Us
 
-We are just starting up so please contact us with any questions [here](https://www.purebiofuel.co.uk/contact/)
+[Contact Page](contact.html)
 
