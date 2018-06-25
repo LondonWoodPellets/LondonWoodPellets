@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-.contactform {
-    width: 600px;
+input.contactform {
+    width: 800px;
     height: 300px;
 }
