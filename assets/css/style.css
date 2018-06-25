@@ -2,13 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
-input.contactform {
+#input.contactform {
     width: 830px;
     height: 300px;
 }
-input[type="submit"] {
+#input[type="submit"] {
     float: right;
 }
-img {
+#img {
     width: 274px;
 }
