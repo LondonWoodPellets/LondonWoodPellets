@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 input.contactform {
-    width: 800px;
+    width: 830px;
     height: 300px;
+}
+input[type="submit"] {
+    float: right;
+}
+img {
+    width: 274px;
 }
