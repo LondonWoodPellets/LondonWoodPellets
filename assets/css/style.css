@@ -1,0 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+.form {
+    width: 600px;
+    height: 300px;
+}
