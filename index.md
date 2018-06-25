@@ -15,7 +15,7 @@ We specialise in pick-up and collection of 15kg / 30L Bags of high quality white
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='https://www.londonwoodpellets.co.uk' />
   <!-- all your input fields here.... -->
-  <p>Name & Question:</p><br /><input type='text' class="form" name='Your details' /><br /><br />
+  <p>Name & Question:</p><br /><input type='text' class="contactform" name='Your details' /><br /><br />
   <input type='submit' value='Submit' />
 </form>
 
